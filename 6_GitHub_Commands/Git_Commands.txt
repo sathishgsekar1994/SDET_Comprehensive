@@ -1,0 +1,12 @@
+git config --global user.email "sathishgsekar1994@gmail.com"
+git config --global user.name "sathishgsekar1994"
+git init
+git add .
+git commit -m "SDET_Comprehensive"
+git branch SDET_Branch
+git checkout SDET_Branch
+git remote add origin https://github.com/sathishgsekar1994/SDET_Comprehensive.git
+git push -u origin SDET_Branch
+
+https://github.com/sathishgsekar1994/SDET_Comprehensive/tree/SDET_Branch
+
