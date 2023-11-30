@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="35.658" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="MakeMyTrip" name="Search ticket" time="35.466">
+<failure/>
+<system-out><![CDATA[
+Given Launch the Browser....................................................passed
+When user opens url: "https://www.makemytrip.com/"..........................passed
+And Close the notification popup............................................passed
+And Close the login page....................................................passed
+Then Enter the From city - "HYD"............................................passed
+Then Enter the To City - "MMA"..............................................passed
+And Enter the depature date.................................................passed
+And Enter the return date...................................................passed
+Then Click search...........................................................passed
+Then Check the page title - "Flights from Hyderabad to Malmo, and back".....passed
+And close Browser/..........................................................undefined
+]]></system-out>
+</testcase>
+</testsuite>
