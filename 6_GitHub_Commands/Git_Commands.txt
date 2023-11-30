@@ -12,12 +12,3 @@ git push -u origin SDET_Branch
 
 https://github.com/sathishgsekar1994/SDET_Comprehensive/tree/SDET_Branch
 
-=======
-git commit -m "Comprehensive Assignment"
-git branch SDET_Branch
-git checkout SDET_Branch
-git remote add origin https://github.com/sathishgsekar1994/SDET_Branch-Comprehensive-Assignment.git
-git push -u origin SDET_Branch
-
-Github link : https://github.com/sathishgsekar1994/SDET_Branch-Comprehensive-Assignment.git
->>>>>>> a2b4b95a9c0ad2a65f4498aa7e19f78c9a7f420c
